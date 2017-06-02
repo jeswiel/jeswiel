@@ -1,1 +1,1 @@
-# stellarico
+# stellarico is a ICO platform
